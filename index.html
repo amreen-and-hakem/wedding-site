@@ -78,7 +78,7 @@
 
 
                 <button class="rsvp-button" onclick="playFullVideo()">
-                    View Invitation
+                    Click to View Invitation
                 </button>
 
             </div>
@@ -155,7 +155,17 @@
                         <div class="error-message" id="errorMessage"></div>
                         <form id="rsvpForm">
                             <div id="dynamicFormContent"></div>
-                            <button type="submit" class="submit-btn">SUBMIT RSVP</button>
+
+                                <div class="sms-optin-wrapper">
+                                    <label class="sms-optin-label">
+                                        <input type="checkbox" id="smsOptIn" name="smsOptIn" value="yes">
+                                        <span class="sms-optin-text">
+                                            By providing your phone number and checking this box, you agree to receive SMS messages regarding the wedding event, including invitations, reminders, and updates. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help.
+                                        </span>
+                                    </label>
+                                </div>
+
+                                <button type="submit" class="submit-btn">SUBMIT RSVP</button>
                         </form>
                     </div>
 
