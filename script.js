@@ -292,7 +292,7 @@ const EVENT_TEMPLATES = {
             <p class="event-date">Wednesday, July 22, 2026</p>
             <p class="event-time">6:00 PM - 11:00 PM</p>
             <p class="event-description">Join us for an evening of henna, music, and celebration as we kick off the wedding festivities.</p>
-            <p class="hall-name">Lone Tree Manor Banquet Hall & Catering</p>
+            <p class="hall-name">📍Lone Tree Manor Banquet Hall & Catering</p>
             <p class="hall-address">7730 N Milwaukee Ave, Niles, IL 60714</p>
         </div>`,
     nikkah: `
@@ -300,8 +300,14 @@ const EVENT_TEMPLATES = {
             <h3>Nikkah / Shaadi</h3>
             <p class="event-date">Friday, July 24, 2026</p>
             <p class="event-time">6:00 PM - 11:00 PM</p>
+            <p><strong>Timeline:</strong></p> 
+            <p>Cocktail hour begins 6:00 PM</p> 
+            <p>Garden Ceremony Entrances begin 6:30 PM</p> 
+            <p>Dinner served at 8:00 PM</p> 
+            <p>Rukhsati at 10:30 PM</p> 
+            <p> Please arrive 30 minutes prior, as doors will close exactly at 6:30 PM and reopen after the ceremony at 8:00 PM. </p>
             <p class="event-description">The wedding ceremony where two families become one. Traditional attire encouraged.</p>
-            <p class="hall-name">Community House Winnetka</p>
+            <p class="hall-name">📍Historic Gardens at Community House Winnetka</p>
             <p class="hall-address">620 Lincoln Ave, Winnetka, IL 60093</p>
         </div>`,
     walima: `
@@ -310,7 +316,7 @@ const EVENT_TEMPLATES = {
             <p class="event-date">Sunday, July 26, 2026</p>
             <p class="event-time">6:00 PM - 11:00 PM</p>
             <p class="event-description">Join us for a grand celebration with dinner, dancing, and joy as we begin our journey together.</p>
-            <p class="hall-name">Belvedere Events & Catering</p>
+            <p class="hall-name">📍Belvedere Events & Catering</p>
             <p class="hall-address">1170 W Devon Ave, Elk Grove Village, IL 60007</p>
         </div>`
 };
