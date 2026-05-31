@@ -301,13 +301,14 @@ const EVENT_TEMPLATES = {
             <h3>Nikkah / Shaadi</h3>
             <p class="event-date">Friday, July 24, 2026</p>
             <p class="event-time">6:00 PM - 11:00 PM</p>
+            <p>No Boxed Gifts</p>
             <p><strong>Timeline:</strong></p> 
             <p>Cocktail hour begins 6:00 PM</p> 
             <p>Garden Ceremony Entrances begin 6:30 PM</p> 
             <p>Dinner served at 8:00 PM</p> 
             <p>Rukhsati at 10:30 PM</p> 
             <p> Please arrive 30 minutes prior, as doors will close exactly at 6:30 PM and reopen after the ceremony at 8:00 PM. </p>
-            <p class="event-description">No boxed gifts. Formal wedding attire.</p>
+            <p class="event-description">Formal wedding attire.</p>
             <p class="hall-name">📍Historic Gardens at Community House Winnetka</p>
             <p class="hall-address">620 Lincoln Ave, Winnetka, IL 60093</p>
         </div>`,
